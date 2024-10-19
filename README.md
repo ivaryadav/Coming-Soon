@@ -1,5 +1,4 @@
-
-//<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -87,28 +86,17 @@
 </head>
 <body>
     <div class="container">
-        
-        
-        <h1>zmaxlab
-        
-        
-        </h1>
-        
-           <BR>
-                  <BR>
-                         <BR>
-                                <BR>   <BR>
-                                    
-        <div class="SQUAIR">
-           
-           
+        <h1>zmaxlab</h1>
+        <div class="cube">
+            <div class="front">3D</div>
+            <div class="back">Cube</div>
+            <div class="left">is</div>
+            <div class="right">Spinning</div>
+            <div class="top">Under</div>
+            <div class="bottom">Maintenance</div>
         </div>
-        
         <div class="message">
-            
-            
             We are currently working on something amazing. Stay tuned! <br>
-            <BR>
             For inquiries, contact us at <a href="mailto:info@zmaxlab.com">info@zmaxlab.com</a>
         </div>
     </div>
